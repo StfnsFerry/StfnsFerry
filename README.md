@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Ferry 👋
 
-<!--
-**StfnsFerry/StfnsFerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student!!
 
-Here are some ideas to get you started:
+- 🔭 I'm currently student at University of Lampung
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Get Rich!
+- ⚡ Fun fact: I love to play games and play music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"/>][instagram]
+
+<br/>
+<br/>
+
+
+| <a href="https://github.com/FerryJr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FerryJr&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Ferry github stats" /></a> | <a href="https://github.com/FerryJr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerryJr&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
+[instagram]: https://www.instagram.com/stfnsferry/

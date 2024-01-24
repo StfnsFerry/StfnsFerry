@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently student at University of Lampung
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Get Rich!
+- 🥅 2024 Goals: Get Rich!
 - ⚡ Fun fact: I love to play games and play music
 
 ### Connect with me:
